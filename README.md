@@ -47,35 +47,6 @@ This project showcases practical Excel skills used in business analytics and mar
 ---
 
 # 📈 Dashboard Screenshots
-
-## Task 3 – Platform Performance
-
-![Platform Performance](Task%203-Platform%20Performance%20Engagement%20field.png)
-
----
-
-## Task 4 – Content & Platform Performance
-
-![Content Performance](Task%204-Content%20and%20platform%20performance.png)
-
----
-
-## Task 5 – Campaign Effectiveness
-
-![Campaign Effectiveness](Task%205-Engagement%20uplift%20during%20vs.%20After.png)
-
----
-
-## Task 6 – Ad Spend vs Follower Growth
-
-![Follower Growth](Task%206-Ad%20spend%20vs.%20follower%20Growth.png)
-
----
-
-## Task 6 – Highest Net Follower Gain
-
-![Highest Follower Gain](Task%206-Highest%20Net%20follower%20gain.png)
-
 ---
 
 # 📊 Key Insights
